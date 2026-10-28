@@ -1,0 +1,6 @@
+# Installers are published as GitHub Release assets, not committed (GitHub rejects files over 100 MB).
+*.AppImage
+*.deb
+*.exe
+*.dmg
+*.blockmap
